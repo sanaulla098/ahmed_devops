@@ -12,3 +12,8 @@ git commit -m "c file added to Rep"
 git log
 
 
+$ git config --global --unset credential.helper
+$ git config --unset credential.helper
+$ git push orgin master --force
+
+
