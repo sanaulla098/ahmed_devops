@@ -1,0 +1,14 @@
+/e/git bash
+git init
+touch a b c
+git add a b
+git status
+git commit -m "netOps" 
+git log
+git config --global user.name "ahmed"
+git config --global user.email "ahmed@accenure.com"
+get add c
+git commit -m "c file added to Rep"
+git log
+
+
